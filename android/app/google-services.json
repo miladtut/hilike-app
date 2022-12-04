@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "675181201499",
+    "project_id": "hilike-79cc6",
+    "storage_bucket": "hilike-79cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675181201499:android:42d66da46a2723800e177e",
+        "android_client_info": {
+          "package_name": "app.hilike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675181201499-08fj69dbes5652colkplll49i1admuqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.hilike",
+            "certificate_hash": "cd8e74c275d9778a03e397504efdf369cbece502"
+          }
+        },
+        {
+          "client_id": "675181201499-6gg6t47onf1pik785p8i857pgi6n7sop.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.hilike",
+            "certificate_hash": "ed89a54c2a0d683db8f6c536d3b3f7de366ec3ec"
+          }
+        },
+        {
+          "client_id": "675181201499-oe3d7debt0ukqkpgd7io757h26a4r99m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.hilike",
+            "certificate_hash": "f35f9524f39fedfa3e6d82f3676a6961bac76e06"
+          }
+        },
+        {
+          "client_id": "675181201499-7069et57ibdnrpn2ctdpimb1c096nv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OqtF6txkRSmb6JHv7RwdFaO2VpyjGHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675181201499-7069et57ibdnrpn2ctdpimb1c096nv0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675181201499-8ajg2ehconj30fnkbvkeq01q86dij15c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vroad.hilike"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675181201499:android:259beefad89c54040e177e",
+        "android_client_info": {
+          "package_name": "com.vroad.hilike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675181201499-s8dsn4pkhej517keafta0alr6jbbfft7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vroad.hilike",
+            "certificate_hash": "cd8e74c275d9778a03e397504efdf369cbece502"
+          }
+        },
+        {
+          "client_id": "675181201499-7069et57ibdnrpn2ctdpimb1c096nv0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OqtF6txkRSmb6JHv7RwdFaO2VpyjGHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675181201499-7069et57ibdnrpn2ctdpimb1c096nv0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675181201499-8ajg2ehconj30fnkbvkeq01q86dij15c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vroad.hilike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>675181201499-uq2obersg13ibc4d2ae6if456e36k215.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.675181201499-uq2obersg13ibc4d2ae6if456e36k215</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>675181201499-s8dsn4pkhej517keafta0alr6jbbfft7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJVE4PDfX932HaQjZZk0ZQLXwcL4m6FEs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>675181201499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.designmaster.HiLike</string>
+	<key>PROJECT_ID</key>
+	<string>hilike-79cc6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hilike-79cc6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:675181201499:ios:17930cbb76c1df800e177e</string>
+</dict>
+</plist>
